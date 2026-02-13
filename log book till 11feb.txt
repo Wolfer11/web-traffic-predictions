@@ -1,0 +1,140 @@
+Day 1 : 29/12 
+ 
+Company overview and introduction to roadmap of aiml 
+
+Day 2 : 30/12 
+
+Introduction to SQL and practice question related to basic sql
+
+Day 3 : 31/12
+
+Filters and condition  , Aggregation & Grouping and then practice question 
+
+Day 4: 01/01 
+
+Joins and practice 
+
+Day 5 : 02/01 
+
+Data Cleaning in SQL 
+
+Day 6 : 03/01 
+
+SQL Question Practice 
+
+Day 7 : 05/01
+
+Python Fundamentals : Variables and data types (int, float, string, boolean) 
+
+Day 8 : 06/01 
+
+Lists, tuples, sets, dictionaries Conditional statements (if, elif, else)
+
+Day 9 : 07/01
+
+Loops (for, while) Functions and lambda functions
+
+Day 10 : 08/01 
+
+Basic exception handling (try-except) 
+
+Day 11 : 09/01 
+
+File handling (reading CSV / TXT files) and revision of python learned topic 
+
+Day 12 : 12/01 
+
+Introduction to numpy and Creating NumPy arrays 
+
+Day 13 : 13/01
+
+Array indexing and slicing Mathematical operations on arrays
+
+Day 14 : 15/01 
+
+Shape, reshape, and dimensions Handling missing values (nan)
+
+Day 15 : 16/01 
+
+Difference between NumPy arrays and Python lists and practice 
+                                                                                       
+Day 16 : 19/01 
+
+Introduction to Pandas and understanding Series & DataFrame
+
+Day 17 : 20/01
+
+Reading datasets (CSV, Excel) and basic DataFrame operations
+
+Day 18 : 21/01
+
+Data selection, filtering, indexing (loc, iloc)
+
+Day 19: 22/01
+
+Handling missing values, data cleaning and preprocessing in Pandas
+
+Day 20 : 23/01 
+
+Data aggregation, grouping (groupby), and basic data analysis
+
+Day 21 : 26/01 
+
+Exploratory Data Analysis (EDA) using Pandas and revision 
+
+Day 22 : 27/01 
+
+Introduction to Matplotlib and basic plotting (line, bar, scatter)
+
+Day 23 : 28/01 
+
+Customizing plots, Histogram, box plot, and visualization for data insights 
+
+Day 24 : 29/01 
+ 
+Introduction to SciPy and scientific computations and revision & practice 
+
+Day 25 : 30/01 
+
+Statistical functions, probability distributions, and hypothesis basics
+
+Day 26 : 02/02 
+
+Introduction to Scikit-learn library and installation, understanding sklearn structure
+
+Day 27 : 03/02 
+
+Working with datasets ,Data preprocessing , Feature scaling techniques
+
+
+day 28 : 04/02 
+
+type of ml and workflow of it 
+
+day 29 : 05/02
+
+reg vs classi , train test concept , model training using scikit learn 
+
+day 30 : 06/02 
+
+Holiday for gate exam 
+
+day 31 : 09/02 
+
+Linear Regression 
+
+day 32 : 10/02 
+
+Logistic Regression 
+
+day 33 : 11/02 
+
+Knn ALgo 
+
+day 34 : 12/02 
+
+Decision tree algo 
+
+day 35 : 13/02 
+
+model evaluation matrix 
